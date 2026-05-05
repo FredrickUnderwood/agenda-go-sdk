@@ -1,4 +1,4 @@
-module github.com/agenda-go-sdk
+module github.com/FredrickUnderwood/agenda-go-sdk
 
 go 1.26.1
 

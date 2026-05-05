@@ -18,7 +18,7 @@ code — your `go.mod` only picks up zap.
 ## Install
 
 ```bash
-go get github.com/agenda-go-sdk
+go get github.com/FredrickUnderwood/agenda-go-sdk
 ```
 
 ## Quick start (log)
@@ -27,7 +27,7 @@ go get github.com/agenda-go-sdk
 package main
 
 import (
-    "github.com/agenda-go-sdk/log"
+    "github.com/FredrickUnderwood/agenda-go-sdk/log"
     "go.uber.org/zap"
 )
 
