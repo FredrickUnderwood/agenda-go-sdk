@@ -1,6 +1,6 @@
 module github.com/FredrickUnderwood/agenda-go-sdk
 
-go 1.26.1
+go 1.22.1
 
 require go.uber.org/zap v1.28.0
 
